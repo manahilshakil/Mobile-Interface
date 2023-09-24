@@ -1,0 +1,58 @@
+body {
+    position: absolute;
+    width: 375px;
+    height: 746px;
+    margin: 0;
+    padding: 0;
+  }
+  
+.topbar {
+    position: absolute;
+    z-index: 2;
+  }
+  
+.appbar {
+    position: absolute;
+    z-index: 1;
+  }
+  
+.bg {
+    position: absolute;
+    margin-top: 60px;
+    z-index: -1;
+    display: flex;
+  }
+  
+.text {
+    width: 375px;
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 130px;
+    right: 20px;
+    left: 20px;
+    color: black;
+  }
+  
+.headline {
+    color: rgb(0, 0, 28);
+    line-height: 52px;
+    font-size: 18px;
+  }
+  
+.paragraph {
+    width: 375px;
+    line-height: 24px;
+    font-size: 16px;
+  }
+  
+.bottom-line {
+    color: rgb(56, 147, 244);
+  }
+  
+.icon {
+    position: absolute;
+    left: 20px;
+    top: 460px;
+    z-index: 6;
+  }
+  
