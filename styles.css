@@ -242,4 +242,85 @@ body {
   margin-left: 35px;
 }
 
+.container6{
+  margin-top: 90px;
+}
 
+.about-1 h1{
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  text-align: left;
+  margin-left: 35px;
+}
+
+.about-1 p{
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  margin-left: 40px;
+  text-align: left;
+}
+
+.about-1 .p2{
+  color: blue;
+}
+
+.about-1 img{
+  margin-top: 20px;
+  margin-left: 35px;
+}
+
+.btn.btn2 {
+  max-width: 150px;
+  height: 20px;
+  top: 11px;
+  background-color: white;
+  border: 1px solid blue;
+  border-radius: 5px;
+  padding: 10px 10px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 35px; 
+  margin-top: 20px;
+}
+
+.btn.btn2 button {
+background-color: white;
+border: none;
+color: blue;
+font-size: 18px;
+line-height: 20px;
+cursor: pointer;
+border-radius: 5px;
+justify-content: flex-start;
+text-align: center;
+}
+
+.btn.btn2 button:hover {
+background-color: blue;
+color: white;
+}
+
+.language p{
+  margin-top: 50px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 23px;
+  margin-left: 50px;
+  text-align: left;
+}
+
+.language img{
+  margin-left: 35px;
+}
+
+.language2 pre{
+  font-family: 'Poppins', sans-serif;
+  font-size: 23px;
+  margin-left: 50px;
+}
+
+.language2 hr{
+  color: gray;
+  width: 80%;
+  margin: 10px auto;
+}
