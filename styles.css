@@ -131,3 +131,40 @@ body {
   color: white;
 }
 
+.container3{
+  margin-top: 130px;
+  align-items: center;
+}
+
+.story img{
+  margin-left: 35px;
+}
+
+.story h1{
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  text-align: left;
+  margin-left: 35px;
+}
+
+.storytext{
+  margin-top: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.storytext img{
+  margin-left: 40px;
+}
+
+.storytext p{
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  margin-left: 40px;
+  text-align: left;
+}
+
+.storytext .imgg3 {
+  margin-left: 35px;
+}
+
