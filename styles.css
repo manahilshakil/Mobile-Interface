@@ -1,7 +1,6 @@
 body {
     position: absolute;
     width: 375px;
-    height: 746px;
     margin: 0;
     padding: 0;
   }
@@ -56,3 +55,79 @@ body {
     z-index: 6;
   }
   
+  .container2{ 
+    align-items: center; 
+    margin-top: 800px;
+  }
+
+  .portfolio1{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+  }
+
+  .portfolio1 img{
+    box-sizing: border-box;
+    max-width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+  }
+
+  .portfolio1 h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 35px;
+  }
+
+  .porttext{
+    margin-top: 0;
+    padding: 0;
+    width: 100%;
+  }
+
+  .porttext img{
+    margin-left: 40px;
+  }
+
+  .porttext p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    margin-left: 40px;
+    text-align: left;
+  }
+
+  .porttext .imgg2 {
+    margin-left: 35px;
+  }
+
+  .btn.btn1 {
+    max-width: 100px;
+    height: 20px;
+    top: 11px;
+    background-color: white;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 35px; 
+  }
+
+.btn.btn1 button {
+  background-color: white;
+  border: none;
+  color: blue;
+  font-size: 17px;
+  cursor: pointer;
+  border-radius: 5px;
+  justify-content: flex-start;
+}
+
+.btn.btn1 button:hover {
+  background-color: blue;
+  color: white;
+}
+
